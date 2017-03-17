@@ -1,0 +1,16 @@
+<log_deal>
+    <table name="communication_ticket">
+        <ensure_start_time></ensure_start_time>
+        <filtration which_member_of_the_msg="" function_name="get_value_from_jscon_str" func_args="" condition_func="" condition_args="">1</filtration>
+        <deal_data which_member_of_the_msg="" function_name="" func_args="">ss</deal_data>
+        <fflush_time which_member_of_the_msg="" function_name="" func_args=""></fflush_time>
+        <output>
+            <space_time></space_time>
+            <to_dataBase conf=""></to_dataBase>
+            <fields_vector num="3"></fields_vector>
+            <fields order_num="0"></fields>
+            <fields order_num="1"></fields>
+            <fields order_num="2"></fields>
+        </output>
+    </table>
+</log_deal>
