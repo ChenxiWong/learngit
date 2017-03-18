@@ -7,10 +7,11 @@
         <output>
             <space_time></space_time>
             <to_dataBase conf=""></to_dataBase>
-            <fields_vector num="3"></fields_vector>
-            <fields order_num="0"></fields>
-            <fields order_num="1"></fields>
-            <fields order_num="2"></fields>
+            <fields_vector num="3">
+                <fields order_num="0">ss</fields>
+                <fields order_num="1">ss1</fields>
+                <fields order_num="2">ss2</fields>
+            </fields_vector>
         </output>
     </table>
 </log_deal>
